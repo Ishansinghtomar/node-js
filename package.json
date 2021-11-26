@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.5.0",
+  "description": "A simple repo for exploring node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishansinghtomar/node-js.git"
+  },
+  "author": "Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishansinghtomar/node-js/issues"
+  },
+  "homepage": "https://github.com/Ishansinghtomar/node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
